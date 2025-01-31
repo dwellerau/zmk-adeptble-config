@@ -2,7 +2,7 @@ file_format: "1"
 id: adept
 name: adept
 type: shield
-url: https://github.com/grassfedreeve/zmk-keyboards-adept
+url: https://github.com/arunsenau/zmk-adeptble-config
 requires: [seeeduino_xiao_ble]
 features:
   - keys
